@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Техмониторинг и оптимизация"
-id="id-2d366eadc4e5419ca3d522aa6b2cae9b">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Техмониторинг и оптимизация"
+    id="id-2d366eadc4e5419ca3d522aa6b2cae9b">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationComponent>

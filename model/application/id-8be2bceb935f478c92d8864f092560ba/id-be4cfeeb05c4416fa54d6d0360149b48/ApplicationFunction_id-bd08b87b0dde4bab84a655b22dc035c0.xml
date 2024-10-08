@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationFunction
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Отправка почты"
-id="id-bd08b87b0dde4bab84a655b22dc035c0">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Отправка почты"
+    id="id-bd08b87b0dde4bab84a655b22dc035c0">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationFunction>

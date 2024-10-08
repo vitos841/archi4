@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationFunction
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Проверка полных прав"
-id="id-b1d1ce71cecb45cebe60ea4de6967d28">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Проверка полных прав"
+    id="id-b1d1ce71cecb45cebe60ea4de6967d28">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationFunction>

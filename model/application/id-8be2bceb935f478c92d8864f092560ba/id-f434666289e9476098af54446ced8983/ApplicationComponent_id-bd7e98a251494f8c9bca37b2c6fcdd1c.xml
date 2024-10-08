@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Интеграция ЭДО. СБИС. Внутренний документооборот (почему разделено?)"
-id="id-bd7e98a251494f8c9bca37b2c6fcdd1c">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Интеграция ЭДО. СБИС. Внутренний документооборот (почему разделено?)"
+    id="id-bd7e98a251494f8c9bca37b2c6fcdd1c">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationComponent>

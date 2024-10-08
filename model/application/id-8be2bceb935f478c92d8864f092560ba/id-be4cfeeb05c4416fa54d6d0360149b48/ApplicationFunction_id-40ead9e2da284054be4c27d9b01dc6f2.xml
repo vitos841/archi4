@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationFunction
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.ПолучитьЦенуПоставщика"
-id="id-40ead9e2da284054be4c27d9b01dc6f2">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.ПолучитьЦенуПоставщика"
+    id="id-40ead9e2da284054be4c27d9b01dc6f2">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationFunction>

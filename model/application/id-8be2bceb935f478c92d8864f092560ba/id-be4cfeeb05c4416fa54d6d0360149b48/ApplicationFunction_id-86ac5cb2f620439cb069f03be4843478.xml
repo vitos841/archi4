@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationFunction
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Свойства Номенклатуры и ТТ"
-id="id-86ac5cb2f620439cb069f03be4843478">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Свойства Номенклатуры и ТТ"
+    id="id-86ac5cb2f620439cb069f03be4843478">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationFunction>
