@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Листы учета"
-id="id-d56dc58794534a3399aa546486b8cf98">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="d56dc58794534a3399aa546486b8cf98"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Листы учета"
+    id="id-d56dc58794534a3399aa546486b8cf98">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="d56dc58794534a3399aa546486b8cf98"/>
 </archimate:ApplicationComponent>

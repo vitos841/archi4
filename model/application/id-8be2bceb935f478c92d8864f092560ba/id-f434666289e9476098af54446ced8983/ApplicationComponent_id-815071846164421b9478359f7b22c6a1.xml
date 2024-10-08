@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Нормативно-справочная информация"
-id="id-815071846164421b9478359f7b22c6a1">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="815071846164421b9478359f7b22c6a1"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Нормативно-справочная информация"
+    id="id-815071846164421b9478359f7b22c6a1">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="815071846164421b9478359f7b22c6a1"/>
 </archimate:ApplicationComponent>

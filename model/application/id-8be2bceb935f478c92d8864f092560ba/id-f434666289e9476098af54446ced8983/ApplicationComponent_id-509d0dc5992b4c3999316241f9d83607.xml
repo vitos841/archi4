@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Сторонняя розница"
-id="id-509d0dc5992b4c3999316241f9d83607">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="509d0dc5992b4c3999316241f9d83607"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Сторонняя розница"
+    id="id-509d0dc5992b4c3999316241f9d83607">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="509d0dc5992b4c3999316241f9d83607"/>
 </archimate:ApplicationComponent>

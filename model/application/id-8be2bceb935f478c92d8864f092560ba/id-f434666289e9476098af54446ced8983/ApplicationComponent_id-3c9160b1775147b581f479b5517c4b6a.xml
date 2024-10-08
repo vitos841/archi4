@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Интеграции CallsStatistics, DarkStorePaycon, Europe, ShippingLabels, iSpring"
-id="id-3c9160b1775147b581f479b5517c4b6a">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="3c9160b1775147b581f479b5517c4b6a"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Интеграции CallsStatistics, DarkStorePaycon, Europe, ShippingLabels, iSpring"
+    id="id-3c9160b1775147b581f479b5517c4b6a">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="3c9160b1775147b581f479b5517c4b6a"/>
 </archimate:ApplicationComponent>

@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Подключаемое оборудование"
-id="id-a5a194b494fa41bab3e97898bac67384">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="a5a194b494fa41bab3e97898bac67384"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Подключаемое оборудование"
+    id="id-a5a194b494fa41bab3e97898bac67384">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="a5a194b494fa41bab3e97898bac67384"/>
 </archimate:ApplicationComponent>

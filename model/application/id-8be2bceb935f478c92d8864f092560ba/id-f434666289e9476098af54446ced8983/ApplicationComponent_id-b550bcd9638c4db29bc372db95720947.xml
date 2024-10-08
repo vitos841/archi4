@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Финансы. Налоги (дубль Отчетность (финансы)?)"
-id="id-b550bcd9638c4db29bc372db95720947">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="b550bcd9638c4db29bc372db95720947"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Финансы. Налоги (дубль Отчетность (финансы)?)"
+    id="id-b550bcd9638c4db29bc372db95720947">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="b550bcd9638c4db29bc372db95720947"/>
 </archimate:ApplicationComponent>

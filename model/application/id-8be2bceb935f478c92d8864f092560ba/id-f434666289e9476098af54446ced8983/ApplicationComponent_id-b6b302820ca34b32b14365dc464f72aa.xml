@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Платежные терминалы для курьеров"
-id="id-b6b302820ca34b32b14365dc464f72aa">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="b6b302820ca34b32b14365dc464f72aa"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Платежные терминалы для курьеров"
+    id="id-b6b302820ca34b32b14365dc464f72aa">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="b6b302820ca34b32b14365dc464f72aa"/>
 </archimate:ApplicationComponent>

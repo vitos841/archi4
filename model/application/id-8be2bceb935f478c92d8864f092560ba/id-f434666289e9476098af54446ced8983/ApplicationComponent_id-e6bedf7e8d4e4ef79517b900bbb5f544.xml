@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Интеграция Тилси"
-id="id-e6bedf7e8d4e4ef79517b900bbb5f544">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="e6bedf7e8d4e4ef79517b900bbb5f544"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Интеграция Тилси"
+    id="id-e6bedf7e8d4e4ef79517b900bbb5f544">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="e6bedf7e8d4e4ef79517b900bbb5f544"/>
 </archimate:ApplicationComponent>

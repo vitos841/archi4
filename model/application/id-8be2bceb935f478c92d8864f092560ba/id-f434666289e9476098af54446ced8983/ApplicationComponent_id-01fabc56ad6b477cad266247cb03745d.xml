@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Налоговый мониторинг"
-id="id-01fabc56ad6b477cad266247cb03745d">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="01fabc56ad6b477cad266247cb03745d"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Налоговый мониторинг"
+    id="id-01fabc56ad6b477cad266247cb03745d">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="01fabc56ad6b477cad266247cb03745d"/>
 </archimate:ApplicationComponent>

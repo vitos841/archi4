@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Интеграция ВетИС/Меркурий"
-id="id-e1917584136f4231914ab222be9dfcff">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="e1917584136f4231914ab222be9dfcff"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Интеграция ВетИС/Меркурий"
+    id="id-e1917584136f4231914ab222be9dfcff">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="e1917584136f4231914ab222be9dfcff"/>
 </archimate:ApplicationComponent>

@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Интеграция Битрикс"
-id="id-106508c072fa49a88a2e3168015d8907">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="106508c072fa49a88a2e3168015d8907"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Интеграция Битрикс"
+    id="id-106508c072fa49a88a2e3168015d8907">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="106508c072fa49a88a2e3168015d8907"/>
 </archimate:ApplicationComponent>

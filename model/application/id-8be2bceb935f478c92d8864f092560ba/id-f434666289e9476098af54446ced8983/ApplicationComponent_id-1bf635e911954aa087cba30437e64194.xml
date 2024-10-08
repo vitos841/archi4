@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Банковские операции. Казначейство"
-id="id-1bf635e911954aa087cba30437e64194">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="1bf635e911954aa087cba30437e64194"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Банковские операции. Казначейство"
+    id="id-1bf635e911954aa087cba30437e64194">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="1bf635e911954aa087cba30437e64194"/>
 </archimate:ApplicationComponent>

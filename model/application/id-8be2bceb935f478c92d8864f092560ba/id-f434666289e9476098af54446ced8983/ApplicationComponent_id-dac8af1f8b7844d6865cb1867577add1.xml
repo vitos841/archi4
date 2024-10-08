@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Интеграция МП Розница"
-id="id-dac8af1f8b7844d6865cb1867577add1">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="dac8af1f8b7844d6865cb1867577add1"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Интеграция МП Розница"
+    id="id-dac8af1f8b7844d6865cb1867577add1">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="dac8af1f8b7844d6865cb1867577add1"/>
 </archimate:ApplicationComponent>

@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Интеграция EDI"
-id="id-f33498ca2679472283d00327db8f542d">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="f33498ca2679472283d00327db8f542d"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Интеграция EDI"
+    id="id-f33498ca2679472283d00327db8f542d">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="f33498ca2679472283d00327db8f542d"/>
 </archimate:ApplicationComponent>

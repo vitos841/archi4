@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Электронная очередь"
-id="id-4208679973eb4aa3b0ee8dee2dc5f1e1">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="4208679973eb4aa3b0ee8dee2dc5f1e1"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Электронная очередь"
+    id="id-4208679973eb4aa3b0ee8dee2dc5f1e1">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="4208679973eb4aa3b0ee8dee2dc5f1e1"/>
 </archimate:ApplicationComponent>

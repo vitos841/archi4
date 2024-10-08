@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Учет полочного пространства. Розница"
-id="id-059cdfe07b1f4f44b8cd6d709cb00691">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="059cdfe07b1f4f44b8cd6d709cb00691"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Учет полочного пространства. Розница"
+    id="id-059cdfe07b1f4f44b8cd6d709cb00691">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="059cdfe07b1f4f44b8cd6d709cb00691"/>
 </archimate:ApplicationComponent>

@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.CRM Админка заказов (покупателей)"
-id="id-5a3bb704e5a44da9b09860dbe7367413">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="5a3bb704e5a44da9b09860dbe7367413"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.CRM Админка заказов (покупателей)"
+    id="id-5a3bb704e5a44da9b09860dbe7367413">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="5a3bb704e5a44da9b09860dbe7367413"/>
 </archimate:ApplicationComponent>

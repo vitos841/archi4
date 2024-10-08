@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationFunction
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Печать и создание ЭДО_ВнутреннийДокумент"
-id="id-b56f782db35d488aaf34ba1bb0ae2e27">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="b56f782db35d488aaf34ba1bb0ae2e27"/>
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Печать и создание ЭДО_ВнутреннийДокумент"
+    id="id-b56f782db35d488aaf34ba1bb0ae2e27">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="b56f782db35d488aaf34ba1bb0ae2e27"/>
 </archimate:ApplicationFunction>

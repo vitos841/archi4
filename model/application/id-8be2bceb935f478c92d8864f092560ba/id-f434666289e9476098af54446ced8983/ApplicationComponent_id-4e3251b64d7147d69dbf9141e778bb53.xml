@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Расчет зарплаты сотрудников (горячая линия)"
-id="id-4e3251b64d7147d69dbf9141e778bb53">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="4e3251b64d7147d69dbf9141e778bb53"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Расчет зарплаты сотрудников (горячая линия)"
+    id="id-4e3251b64d7147d69dbf9141e778bb53">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="4e3251b64d7147d69dbf9141e778bb53"/>
 </archimate:ApplicationComponent>

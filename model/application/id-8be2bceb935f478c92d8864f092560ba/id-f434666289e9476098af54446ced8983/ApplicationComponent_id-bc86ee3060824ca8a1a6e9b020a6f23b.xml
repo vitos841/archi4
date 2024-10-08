@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Плановый ассортимент (интеграция)"
-id="id-bc86ee3060824ca8a1a6e9b020a6f23b">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="bc86ee3060824ca8a1a6e9b020a6f23b"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Плановый ассортимент (интеграция)"
+    id="id-bc86ee3060824ca8a1a6e9b020a6f23b">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="bc86ee3060824ca8a1a6e9b020a6f23b"/>
 </archimate:ApplicationComponent>

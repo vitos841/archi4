@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.БСП, универсальные механизмы"
-id="id-555e5797ff154206a7205ee72634429d">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="555e5797ff154206a7205ee72634429d"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.БСП, универсальные механизмы"
+    id="id-555e5797ff154206a7205ee72634429d">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="555e5797ff154206a7205ee72634429d"/>
 </archimate:ApplicationComponent>

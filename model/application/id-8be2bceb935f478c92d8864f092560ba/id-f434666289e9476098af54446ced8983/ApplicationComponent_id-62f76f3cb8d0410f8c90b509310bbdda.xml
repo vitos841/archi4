@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Интеграция СПАРК"
-id="id-62f76f3cb8d0410f8c90b509310bbdda">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="62f76f3cb8d0410f8c90b509310bbdda"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Интеграция СПАРК"
+    id="id-62f76f3cb8d0410f8c90b509310bbdda">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="62f76f3cb8d0410f8c90b509310bbdda"/>
 </archimate:ApplicationComponent>

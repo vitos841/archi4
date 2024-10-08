@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.XDTO. Правила обмена. Распределение"
-id="id-256af672aec2493a8e6187e582a38561">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="256af672aec2493a8e6187e582a38561"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.XDTO. Правила обмена. Распределение"
+    id="id-256af672aec2493a8e6187e582a38561">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="256af672aec2493a8e6187e582a38561"/>
 </archimate:ApplicationComponent>

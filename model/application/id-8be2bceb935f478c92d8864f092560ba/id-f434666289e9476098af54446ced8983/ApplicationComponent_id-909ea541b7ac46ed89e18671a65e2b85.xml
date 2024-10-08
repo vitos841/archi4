@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Начисление по аренде помещений 25 стандарт"
-id="id-909ea541b7ac46ed89e18671a65e2b85">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="909ea541b7ac46ed89e18671a65e2b85"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Начисление по аренде помещений 25 стандарт"
+    id="id-909ea541b7ac46ed89e18671a65e2b85">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="909ea541b7ac46ed89e18671a65e2b85"/>
 </archimate:ApplicationComponent>

@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Бизнес-процессы (настраиваемые)"
-id="id-bf9259a6062d43abb46ec7b61a0d9398">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="bf9259a6062d43abb46ec7b61a0d9398"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Бизнес-процессы (настраиваемые)"
+    id="id-bf9259a6062d43abb46ec7b61a0d9398">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="bf9259a6062d43abb46ec7b61a0d9398"/>
 </archimate:ApplicationComponent>

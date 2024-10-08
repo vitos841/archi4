@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.ЗАРПЛАТА И КАДРЫ"
-id="id-195e2a40a35d41379ab35ed324d4f4bd">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="195e2a40a35d41379ab35ed324d4f4bd"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.ЗАРПЛАТА И КАДРЫ"
+    id="id-195e2a40a35d41379ab35ed324d4f4bd">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="195e2a40a35d41379ab35ed324d4f4bd"/>
 </archimate:ApplicationComponent>

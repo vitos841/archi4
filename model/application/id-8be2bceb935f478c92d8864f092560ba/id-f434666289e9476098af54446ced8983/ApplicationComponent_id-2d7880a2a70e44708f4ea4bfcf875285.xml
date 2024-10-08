@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Отчетность (пересорт, потери)"
-id="id-2d7880a2a70e44708f4ea4bfcf875285">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="2d7880a2a70e44708f4ea4bfcf875285"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Отчетность (пересорт, потери)"
+    id="id-2d7880a2a70e44708f4ea4bfcf875285">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="2d7880a2a70e44708f4ea4bfcf875285"/>
 </archimate:ApplicationComponent>

@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Интеграция Ally"
-id="id-b691ad81b20e4b1d8a69aec515a4a9a3">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="b691ad81b20e4b1d8a69aec515a4a9a3"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Интеграция Ally"
+    id="id-b691ad81b20e4b1d8a69aec515a4a9a3">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="b691ad81b20e4b1d8a69aec515a4a9a3"/>
 </archimate:ApplicationComponent>

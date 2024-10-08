@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Дополнения (расширения, внеш. отчеты и обработки)"
-id="id-cc33dda415bc42ad8d065479bfba1116">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="cc33dda415bc42ad8d065479bfba1116"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Дополнения (расширения, внеш. отчеты и обработки)"
+    id="id-cc33dda415bc42ad8d065479bfba1116">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="cc33dda415bc42ad8d065479bfba1116"/>
 </archimate:ApplicationComponent>

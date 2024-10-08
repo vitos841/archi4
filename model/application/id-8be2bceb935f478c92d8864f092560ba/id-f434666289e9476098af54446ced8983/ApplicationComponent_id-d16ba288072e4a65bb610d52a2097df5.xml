@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Расчет зарплаты сотрудников (склады)"
-id="id-d16ba288072e4a65bb610d52a2097df5">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="d16ba288072e4a65bb610d52a2097df5"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Расчет зарплаты сотрудников (склады)"
+    id="id-d16ba288072e4a65bb610d52a2097df5">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="d16ba288072e4a65bb610d52a2097df5"/>
 </archimate:ApplicationComponent>

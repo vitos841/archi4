@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Доставка (курьерская)"
-id="id-3bc215af40ff4f0ca8e6527d35234bc2">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="3bc215af40ff4f0ca8e6527d35234bc2"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Доставка (курьерская)"
+    id="id-3bc215af40ff4f0ca8e6527d35234bc2">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="3bc215af40ff4f0ca8e6527d35234bc2"/>
 </archimate:ApplicationComponent>

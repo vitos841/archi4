@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Запрет редактирования данных (закрытый период)"
-id="id-b2240c9e6e714b99959ad7b5740e3c50">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="b2240c9e6e714b99959ad7b5740e3c50"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Запрет редактирования данных (закрытый период)"
+    id="id-b2240c9e6e714b99959ad7b5740e3c50">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="b2240c9e6e714b99959ad7b5740e3c50"/>
 </archimate:ApplicationComponent>

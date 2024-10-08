@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Интеграция 1С:ЗУП"
-id="id-613f25e0942c4b58b49c80954e3132f7">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="613f25e0942c4b58b49c80954e3132f7"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Интеграция 1С:ЗУП"
+    id="id-613f25e0942c4b58b49c80954e3132f7">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="613f25e0942c4b58b49c80954e3132f7"/>
 </archimate:ApplicationComponent>

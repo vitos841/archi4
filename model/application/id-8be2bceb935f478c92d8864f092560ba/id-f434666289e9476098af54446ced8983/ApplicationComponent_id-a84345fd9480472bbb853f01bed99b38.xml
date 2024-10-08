@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Интеграция Сайт ВкусВилл"
-id="id-a84345fd9480472bbb853f01bed99b38">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="a84345fd9480472bbb853f01bed99b38"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Интеграция Сайт ВкусВилл"
+    id="id-a84345fd9480472bbb853f01bed99b38">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="a84345fd9480472bbb853f01bed99b38"/>
 </archimate:ApplicationComponent>

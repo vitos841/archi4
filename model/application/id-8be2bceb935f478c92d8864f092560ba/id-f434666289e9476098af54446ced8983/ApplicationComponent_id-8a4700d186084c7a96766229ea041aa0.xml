@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Интеграционный узел (хаб)"
-id="id-8a4700d186084c7a96766229ea041aa0">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="8a4700d186084c7a96766229ea041aa0"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Интеграционный узел (хаб)"
+    id="id-8a4700d186084c7a96766229ea041aa0">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="8a4700d186084c7a96766229ea041aa0"/>
 </archimate:ApplicationComponent>

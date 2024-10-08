@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Базовые объекты"
-id="id-c688846b5c2d4732816f5fb4d5b99e6d">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="c688846b5c2d4732816f5fb4d5b99e6d"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Базовые объекты"
+    id="id-c688846b5c2d4732816f5fb4d5b99e6d">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="c688846b5c2d4732816f5fb4d5b99e6d"/>
 </archimate:ApplicationComponent>
