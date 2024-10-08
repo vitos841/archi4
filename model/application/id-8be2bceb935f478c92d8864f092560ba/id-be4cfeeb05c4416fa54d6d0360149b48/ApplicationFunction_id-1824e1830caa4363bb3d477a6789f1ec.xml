@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationFunction
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.БСП, универсальные механизмы.КЛАДР"
-id="id-1824e1830caa4363bb3d477a6789f1ec">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.БСП, универсальные механизмы.КЛАДР"
+    id="id-1824e1830caa4363bb3d477a6789f1ec">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationFunction>
