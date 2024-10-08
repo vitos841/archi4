@@ -1,7 +1,7 @@
 ﻿<archimate:ApplicationFunction
 xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Получение значения права"
-id="id-eaa65e8a71f54aa5a15f431fd7c97fb9">
+name="Ret.Поиск\печать Приходного ордера на склад возврата"
+id="id-14835d81902045048580ea3b9846d18b">
 <properties
    key="Сгенерирован автоматически"
    value="Да"/>
