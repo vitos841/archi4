@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Рекламные материалы"
-id="id-2358e9fd1f2c4e9eba8bc38799ec9036">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Рекламные материалы"
+    id="id-2358e9fd1f2c4e9eba8bc38799ec9036">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationComponent>

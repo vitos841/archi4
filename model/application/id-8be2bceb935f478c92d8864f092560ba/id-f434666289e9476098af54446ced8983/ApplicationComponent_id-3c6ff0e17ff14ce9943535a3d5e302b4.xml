@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Интеграция соцсети (ВКонтакте, Facebook)"
-id="id-3c6ff0e17ff14ce9943535a3d5e302b4">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Интеграция соцсети (ВКонтакте, Facebook)"
+    id="id-3c6ff0e17ff14ce9943535a3d5e302b4">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationComponent>

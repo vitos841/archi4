@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Товарные операции. Заявки товародвижения. Розница"
-id="id-91be0814e95b4cb4ac5f60ff61ba484f">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Товарные операции. Заявки товародвижения. Розница"
+    id="id-91be0814e95b4cb4ac5f60ff61ba484f">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationComponent>

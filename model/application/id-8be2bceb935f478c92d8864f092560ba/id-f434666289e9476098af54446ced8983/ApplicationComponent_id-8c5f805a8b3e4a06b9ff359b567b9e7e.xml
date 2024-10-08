@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Интеграция ЭДО входящий/исходящий (почему разделено?)"
-id="id-8c5f805a8b3e4a06b9ff359b567b9e7e">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Интеграция ЭДО входящий/исходящий (почему разделено?)"
+    id="id-8c5f805a8b3e4a06b9ff359b567b9e7e">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationComponent>

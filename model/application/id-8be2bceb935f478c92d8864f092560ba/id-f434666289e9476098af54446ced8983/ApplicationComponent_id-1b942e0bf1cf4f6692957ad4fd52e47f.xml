@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Бизнес-процессы (настраиваемые)"
-id="id-1b942e0bf1cf4f6692957ad4fd52e47f">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Бизнес-процессы (настраиваемые)"
+    id="id-1b942e0bf1cf4f6692957ad4fd52e47f">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationComponent>

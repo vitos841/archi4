@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationFunction
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Работа с подсистемой Дез средств SRV-SQL01.SMS_REPL/SQL-RTL-AUX01.TMC"
-id="id-c9a72977252a4ec9898185326d747877">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Работа с подсистемой Дез средств SRV-SQL01.SMS_REPL/SQL-RTL-AUX01.TMC"
+    id="id-c9a72977252a4ec9898185326d747877">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationFunction>

@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Интеграция Яндекс.Погода"
-id="id-1b4416a5ceee4b8ca7f181ac2f9e9f39">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Интеграция Яндекс.Погода"
+    id="id-1b4416a5ceee4b8ca7f181ac2f9e9f39">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationComponent>

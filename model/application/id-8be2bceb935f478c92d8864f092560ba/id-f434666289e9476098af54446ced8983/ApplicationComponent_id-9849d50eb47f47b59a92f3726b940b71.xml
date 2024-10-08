@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.ЗАРПЛАТА И КАДРЫ"
-id="id-9849d50eb47f47b59a92f3726b940b71">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.ЗАРПЛАТА И КАДРЫ"
+    id="id-9849d50eb47f47b59a92f3726b940b71">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationComponent>

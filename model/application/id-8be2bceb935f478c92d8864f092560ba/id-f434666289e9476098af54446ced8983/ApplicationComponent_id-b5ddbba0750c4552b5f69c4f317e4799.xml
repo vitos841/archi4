@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.ВЗАИМООТНОШЕНИЯ И РАСЧЕТЫ С КОНТРАГЕНТАМИ"
-id="id-b5ddbba0750c4552b5f69c4f317e4799">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.ВЗАИМООТНОШЕНИЯ И РАСЧЕТЫ С КОНТРАГЕНТАМИ"
+    id="id-b5ddbba0750c4552b5f69c4f317e4799">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationComponent>
