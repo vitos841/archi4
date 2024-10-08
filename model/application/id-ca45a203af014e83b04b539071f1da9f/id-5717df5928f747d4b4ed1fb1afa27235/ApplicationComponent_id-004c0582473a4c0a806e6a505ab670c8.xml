@@ -1,0 +1,11 @@
+﻿<archimate:ApplicationComponent
+xmlns:archimate="http://www.archimatetool.com/archimate"
+name="Fin.Интеграция Telegram (боты)"
+id="id-004c0582473a4c0a806e6a505ab670c8">
+<properties
+   key="AutoGeneration"
+   value="Да"/>
+<properties
+   key="TechnicalID"
+   value="004c0582473a4c0a806e6a505ab670c8"/>
+</archimate:ApplicationComponent>

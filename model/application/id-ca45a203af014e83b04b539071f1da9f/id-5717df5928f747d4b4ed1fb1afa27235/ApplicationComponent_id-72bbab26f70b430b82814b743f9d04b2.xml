@@ -1,0 +1,11 @@
+﻿<archimate:ApplicationComponent
+xmlns:archimate="http://www.archimatetool.com/archimate"
+name="Fin.Интеграция через XDTO и RabbitMQ"
+id="id-72bbab26f70b430b82814b743f9d04b2">
+<properties
+   key="AutoGeneration"
+   value="Да"/>
+<properties
+   key="TechnicalID"
+   value="72bbab26f70b430b82814b743f9d04b2"/>
+</archimate:ApplicationComponent>

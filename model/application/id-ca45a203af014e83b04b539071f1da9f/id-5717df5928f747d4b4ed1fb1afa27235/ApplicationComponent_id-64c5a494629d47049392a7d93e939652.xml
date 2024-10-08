@@ -1,0 +1,11 @@
+﻿<archimate:ApplicationComponent
+xmlns:archimate="http://www.archimatetool.com/archimate"
+name="Fin.Механизм обмена сообщениями (МОС)"
+id="id-64c5a494629d47049392a7d93e939652">
+<properties
+   key="AutoGeneration"
+   value="Да"/>
+<properties
+   key="TechnicalID"
+   value="64c5a494629d47049392a7d93e939652"/>
+</archimate:ApplicationComponent>

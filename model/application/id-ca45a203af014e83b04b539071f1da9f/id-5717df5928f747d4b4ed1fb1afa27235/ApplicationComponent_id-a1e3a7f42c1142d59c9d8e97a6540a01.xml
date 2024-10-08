@@ -1,0 +1,11 @@
+﻿<archimate:ApplicationComponent
+xmlns:archimate="http://www.archimatetool.com/archimate"
+name="Fin.Аренда"
+id="id-a1e3a7f42c1142d59c9d8e97a6540a01">
+<properties
+   key="AutoGeneration"
+   value="Да"/>
+<properties
+   key="TechnicalID"
+   value="a1e3a7f42c1142d59c9d8e97a6540a01"/>
+</archimate:ApplicationComponent>
