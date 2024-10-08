@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Расчет зарплаты сотрудников (розница)"
-id="id-caee7dd553ad4ba1a5f638aad8b64504">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Расчет зарплаты сотрудников (розница)"
+    id="id-caee7dd553ad4ba1a5f638aad8b64504">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationComponent>

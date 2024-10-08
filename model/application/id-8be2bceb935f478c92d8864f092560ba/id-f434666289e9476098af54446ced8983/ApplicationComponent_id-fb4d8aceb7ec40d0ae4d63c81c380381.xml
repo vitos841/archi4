@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Регламентированный учет (НСИ, документы)"
-id="id-fb4d8aceb7ec40d0ae4d63c81c380381">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Регламентированный учет (НСИ, документы)"
+    id="id-fb4d8aceb7ec40d0ae4d63c81c380381">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationComponent>

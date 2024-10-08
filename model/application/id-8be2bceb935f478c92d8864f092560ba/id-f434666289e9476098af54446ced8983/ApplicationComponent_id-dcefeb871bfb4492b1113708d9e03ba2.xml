@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.ПП 1С Бухгалтерия ред. 3.0"
-id="id-dcefeb871bfb4492b1113708d9e03ba2">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.ПП 1С Бухгалтерия ред. 3.0"
+    id="id-dcefeb871bfb4492b1113708d9e03ba2">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationComponent>
