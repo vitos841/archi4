@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Рекламные материалы"
 id="id-599189f686eb48458dfc9d1b0394c849">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="599189f686eb48458dfc9d1b0394c849"/>
 </archimate:ApplicationComponent>

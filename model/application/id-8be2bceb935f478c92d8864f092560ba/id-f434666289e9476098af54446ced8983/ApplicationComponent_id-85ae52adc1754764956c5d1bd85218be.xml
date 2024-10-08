@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Интеграция 1С:Бухгалтерия предприятия"
 id="id-85ae52adc1754764956c5d1bd85218be">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="85ae52adc1754764956c5d1bd85218be"/>
 </archimate:ApplicationComponent>

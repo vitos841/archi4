@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Регламентированный учет (НСИ, документы)"
 id="id-29edea0e7c6d4b70a4b8c7e7da3cdfe7">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="29edea0e7c6d4b70a4b8c7e7da3cdfe7"/>
 </archimate:ApplicationComponent>

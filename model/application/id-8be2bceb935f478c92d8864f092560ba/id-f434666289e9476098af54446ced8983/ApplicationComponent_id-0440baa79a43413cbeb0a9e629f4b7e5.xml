@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Интеграция Elasticsearch"
 id="id-0440baa79a43413cbeb0a9e629f4b7e5">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="0440baa79a43413cbeb0a9e629f4b7e5"/>
 </archimate:ApplicationComponent>

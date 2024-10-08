@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Интеграция ИСМП Честный знак"
 id="id-537b77db6ad249ddb5886defc696a709">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="537b77db6ad249ddb5886defc696a709"/>
 </archimate:ApplicationComponent>

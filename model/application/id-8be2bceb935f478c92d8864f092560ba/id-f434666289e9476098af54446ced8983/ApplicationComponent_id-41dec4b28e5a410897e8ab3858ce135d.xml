@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.ПИМ"
 id="id-41dec4b28e5a410897e8ab3858ce135d">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="41dec4b28e5a410897e8ab3858ce135d"/>
 </archimate:ApplicationComponent>

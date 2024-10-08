@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Выручка"
 id="id-febbaa4b08bd44b79c2b88313387edc6">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="febbaa4b08bd44b79c2b88313387edc6"/>
 </archimate:ApplicationComponent>

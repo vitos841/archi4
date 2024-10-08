@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Интеграция Монирон"
 id="id-7d7e46d959f64fde99b808a01be1c880">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="7d7e46d959f64fde99b808a01be1c880"/>
 </archimate:ApplicationComponent>

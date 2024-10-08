@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Товарный ассортимент"
 id="id-bcb6fc0595994e04984d588ab6e6323d">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="bcb6fc0595994e04984d588ab6e6323d"/>
 </archimate:ApplicationComponent>

@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Внешние источники-свалки"
 id="id-f3b2570af21f4b2eac082c176cc85ab6">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="f3b2570af21f4b2eac082c176cc85ab6"/>
 </archimate:ApplicationComponent>

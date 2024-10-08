@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Интеграция ЭДО. СБИС. Внутренний документооборот (почему разделено?)"
 id="id-9b809680269b485fbd8056a4c2e5f1e6">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="9b809680269b485fbd8056a4c2e5f1e6"/>
 </archimate:ApplicationComponent>

@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Выгрузки: кассы, весы (розница)"
 id="id-f27c712308d649f59adef9d8d2034bb4">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="f27c712308d649f59adef9d8d2034bb4"/>
 </archimate:ApplicationComponent>

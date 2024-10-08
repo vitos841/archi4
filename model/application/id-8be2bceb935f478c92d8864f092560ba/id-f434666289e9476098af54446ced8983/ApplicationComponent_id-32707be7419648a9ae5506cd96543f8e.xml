@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Договоры"
 id="id-32707be7419648a9ae5506cd96543f8e">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="32707be7419648a9ae5506cd96543f8e"/>
 </archimate:ApplicationComponent>

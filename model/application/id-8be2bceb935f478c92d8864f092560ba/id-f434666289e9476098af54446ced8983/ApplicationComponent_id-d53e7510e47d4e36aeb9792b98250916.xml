@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Продажи (E-com, B2B)"
 id="id-d53e7510e47d4e36aeb9792b98250916">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="d53e7510e47d4e36aeb9792b98250916"/>
 </archimate:ApplicationComponent>

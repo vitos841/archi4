@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Корень конфигурации 1С Финансы (Избенка)"
 id="id-8e7ea8af9a4f4d3c8e70e0f6db6a7bd7">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="8e7ea8af9a4f4d3c8e70e0f6db6a7bd7"/>
 </archimate:ApplicationComponent>

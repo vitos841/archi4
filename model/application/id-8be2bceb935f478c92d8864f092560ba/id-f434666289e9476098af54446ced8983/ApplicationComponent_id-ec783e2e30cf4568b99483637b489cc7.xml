@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Интеграция Парконика"
 id="id-ec783e2e30cf4568b99483637b489cc7">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="ec783e2e30cf4568b99483637b489cc7"/>
 </archimate:ApplicationComponent>

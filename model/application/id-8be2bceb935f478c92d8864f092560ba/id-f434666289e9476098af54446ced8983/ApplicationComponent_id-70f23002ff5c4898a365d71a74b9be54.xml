@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.ДЕНЕЖНЫЕ СРЕДСТВА"
 id="id-70f23002ff5c4898a365d71a74b9be54">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="70f23002ff5c4898a365d71a74b9be54"/>
 </archimate:ApplicationComponent>

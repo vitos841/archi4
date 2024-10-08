@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Расчет зарплаты сотрудников (розница)"
 id="id-07a55d17e6d749b78cebe17082949348">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="07a55d17e6d749b78cebe17082949348"/>
 </archimate:ApplicationComponent>

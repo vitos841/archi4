@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Ценообразование. Закупки"
 id="id-df6d9c84f55e473aadccd8e507820ae0">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="df6d9c84f55e473aadccd8e507820ae0"/>
 </archimate:ApplicationComponent>

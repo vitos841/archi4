@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Замеры производительности"
 id="id-65621a1810e049d192bc8cfa0ed2247f">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="65621a1810e049d192bc8cfa0ed2247f"/>
 </archimate:ApplicationFunction>

@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.XDTO. Правила обмена. Интеграция"
 id="id-aa04f56259364067b3737c18a57224c5">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="aa04f56259364067b3737c18a57224c5"/>
 </archimate:ApplicationComponent>

@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Штрихкоды сотрудников"
 id="id-38af1a00f2a74cc9b1b970993ba1881d">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="38af1a00f2a74cc9b1b970993ba1881d"/>
 </archimate:ApplicationComponent>

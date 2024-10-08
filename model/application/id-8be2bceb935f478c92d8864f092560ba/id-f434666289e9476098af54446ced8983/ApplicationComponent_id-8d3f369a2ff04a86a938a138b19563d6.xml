@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.ПП 1С Бухгалтерия"
 id="id-8d3f369a2ff04a86a938a138b19563d6">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="8d3f369a2ff04a86a938a138b19563d6"/>
 </archimate:ApplicationComponent>

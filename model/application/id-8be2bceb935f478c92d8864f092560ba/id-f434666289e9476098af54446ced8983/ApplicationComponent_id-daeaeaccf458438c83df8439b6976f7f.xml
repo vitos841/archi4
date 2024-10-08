@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Интеграция.Яндекс"
 id="id-daeaeaccf458438c83df8439b6976f7f">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="daeaeaccf458438c83df8439b6976f7f"/>
 </archimate:ApplicationComponent>

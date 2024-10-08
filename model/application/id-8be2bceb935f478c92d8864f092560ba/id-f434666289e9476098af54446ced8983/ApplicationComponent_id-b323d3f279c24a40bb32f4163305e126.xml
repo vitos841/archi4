@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Механизм обмена сообщениями (МОС)"
 id="id-b323d3f279c24a40bb32f4163305e126">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="b323d3f279c24a40bb32f4163305e126"/>
 </archimate:ApplicationComponent>

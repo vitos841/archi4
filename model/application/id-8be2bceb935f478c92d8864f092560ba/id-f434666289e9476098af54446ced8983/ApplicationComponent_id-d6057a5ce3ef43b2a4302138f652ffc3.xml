@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Топливные карты"
 id="id-d6057a5ce3ef43b2a4302138f652ffc3">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="d6057a5ce3ef43b2a4302138f652ffc3"/>
 </archimate:ApplicationComponent>

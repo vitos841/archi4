@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Интеграция соцсети (ВКонтакте, Facebook)"
 id="id-b457d18f256a4131a832c170b07e0c4b">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="b457d18f256a4131a832c170b07e0c4b"/>
 </archimate:ApplicationComponent>

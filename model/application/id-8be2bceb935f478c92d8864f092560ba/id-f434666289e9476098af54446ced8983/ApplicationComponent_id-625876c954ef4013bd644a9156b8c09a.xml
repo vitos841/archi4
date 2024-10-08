@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Магазины ВВ"
 id="id-625876c954ef4013bd644a9156b8c09a">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="625876c954ef4013bd644a9156b8c09a"/>
 </archimate:ApplicationComponent>

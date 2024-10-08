@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Управление доступом к персональным данным"
 id="id-50bf86b23fba4f6e929ad8193a276c26">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="50bf86b23fba4f6e929ad8193a276c26"/>
 </archimate:ApplicationComponent>

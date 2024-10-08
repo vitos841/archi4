@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Прокси Розница"
 id="id-0ffead8c240348da8b04715dc0e94530">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="0ffead8c240348da8b04715dc0e94530"/>
 </archimate:ApplicationComponent>

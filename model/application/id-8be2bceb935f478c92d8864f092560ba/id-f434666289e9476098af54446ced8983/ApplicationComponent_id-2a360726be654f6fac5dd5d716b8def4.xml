@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Взаимоотношения с покупателями (CRM)"
 id="id-2a360726be654f6fac5dd5d716b8def4">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="2a360726be654f6fac5dd5d716b8def4"/>
 </archimate:ApplicationComponent>

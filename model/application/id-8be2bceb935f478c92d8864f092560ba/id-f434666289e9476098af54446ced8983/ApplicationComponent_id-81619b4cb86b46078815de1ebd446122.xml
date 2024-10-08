@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.ВВ мини (Вкусвильчик)"
 id="id-81619b4cb86b46078815de1ebd446122">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="81619b4cb86b46078815de1ebd446122"/>
 </archimate:ApplicationComponent>

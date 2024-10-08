@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Управление складом (в т.ч. адресным)"
 id="id-c0c3ea975e82487d942d2b90b9db2793">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="c0c3ea975e82487d942d2b90b9db2793"/>
 </archimate:ApplicationComponent>

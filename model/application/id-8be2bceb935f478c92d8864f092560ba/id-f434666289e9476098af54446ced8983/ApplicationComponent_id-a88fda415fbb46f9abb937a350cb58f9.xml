@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Промоакции"
 id="id-a88fda415fbb46f9abb937a350cb58f9">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="a88fda415fbb46f9abb937a350cb58f9"/>
 </archimate:ApplicationComponent>

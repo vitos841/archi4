@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.XDTO. Правила обмена. Розница"
 id="id-4c0aa9895d674c64adea9f3363c59de4">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="4c0aa9895d674c64adea9f3363c59de4"/>
 </archimate:ApplicationComponent>

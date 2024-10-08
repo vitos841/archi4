@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Свойства Номенклатуры и ТТ"
 id="id-c6039bdc448b4898bcf6dd3e444381f3">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="c6039bdc448b4898bcf6dd3e444381f3"/>
 </archimate:ApplicationFunction>

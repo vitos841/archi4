@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Закрытие месяца"
 id="id-75bd34cf19ce46eaaf2f4821c7b2b96b">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="75bd34cf19ce46eaaf2f4821c7b2b96b"/>
 </archimate:ApplicationComponent>

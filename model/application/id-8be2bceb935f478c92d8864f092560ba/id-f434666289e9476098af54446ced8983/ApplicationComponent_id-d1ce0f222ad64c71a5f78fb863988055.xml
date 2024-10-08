@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Международные стандарты финансовой отчетности (МСФО)"
 id="id-d1ce0f222ad64c71a5f78fb863988055">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="d1ce0f222ad64c71a5f78fb863988055"/>
 </archimate:ApplicationComponent>

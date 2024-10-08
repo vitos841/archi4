@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Сборка заказов"
 id="id-cffedd4a534746549848db3b1751c2f5">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="cffedd4a534746549848db3b1751c2f5"/>
 </archimate:ApplicationComponent>

@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Работа с датчиками температур SRV-SQL01."
 id="id-f449c89f5b4846b7b9253e9b509b57c7">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="f449c89f5b4846b7b9253e9b509b57c7"/>
 </archimate:ApplicationFunction>

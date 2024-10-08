@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Складской персонал"
 id="id-0314da07d7c74bfdbc79da36a5ca8dca">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="0314da07d7c74bfdbc79da36a5ca8dca"/>
 </archimate:ApplicationComponent>

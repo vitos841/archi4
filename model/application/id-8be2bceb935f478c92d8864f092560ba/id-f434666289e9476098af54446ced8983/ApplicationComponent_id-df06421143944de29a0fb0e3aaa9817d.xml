@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Технологи, проверка качества"
 id="id-df06421143944de29a0fb0e3aaa9817d">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="df06421143944de29a0fb0e3aaa9817d"/>
 </archimate:ApplicationComponent>

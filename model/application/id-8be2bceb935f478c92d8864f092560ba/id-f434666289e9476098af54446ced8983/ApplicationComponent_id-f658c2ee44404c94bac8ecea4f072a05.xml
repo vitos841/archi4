@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Интеграция Кафка"
 id="id-f658c2ee44404c94bac8ecea4f072a05">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="f658c2ee44404c94bac8ecea4f072a05"/>
 </archimate:ApplicationComponent>

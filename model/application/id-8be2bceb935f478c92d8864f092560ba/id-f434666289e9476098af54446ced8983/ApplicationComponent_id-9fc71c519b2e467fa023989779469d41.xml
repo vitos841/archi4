@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Интеграция Аэроклуб"
 id="id-9fc71c519b2e467fa023989779469d41">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="9fc71c519b2e467fa023989779469d41"/>
 </archimate:ApplicationComponent>

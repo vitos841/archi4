@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Общие механизмы хранения настроек"
 id="id-849b7e028f894c22927499241389617a">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="849b7e028f894c22927499241389617a"/>
 </archimate:ApplicationComponent>

@@ -3,6 +3,9 @@ xmlns:archimate="http://www.archimatetool.com/archimate"
 name="Ret.Журналы магазинов"
 id="id-1cc23a91f1d74d0caa49ac53a4c3dc99">
 <properties
-   key="Сгенерирован автоматически"
+   key="AutoGeneration"
    value="Да"/>
+<properties
+   key="TechnicalID"
+   value="1cc23a91f1d74d0caa49ac53a4c3dc99"/>
 </archimate:ApplicationComponent>
