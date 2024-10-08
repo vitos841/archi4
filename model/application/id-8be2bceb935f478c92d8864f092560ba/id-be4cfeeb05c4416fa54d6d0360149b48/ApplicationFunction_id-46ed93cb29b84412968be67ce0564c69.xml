@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationFunction
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Печать и создание ЭДО_ВнутреннийДокумент"
-id="id-46ed93cb29b84412968be67ce0564c69">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Печать и создание ЭДО_ВнутреннийДокумент"
+    id="id-46ed93cb29b84412968be67ce0564c69">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationFunction>
