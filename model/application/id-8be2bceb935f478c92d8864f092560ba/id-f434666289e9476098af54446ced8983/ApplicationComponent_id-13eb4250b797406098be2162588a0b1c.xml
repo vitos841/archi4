@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Финансы. Налоги (дубль Отчетность (финансы)?)"
-id="id-13eb4250b797406098be2162588a0b1c">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Финансы. Налоги (дубль Отчетность (финансы)?)"
+    id="id-13eb4250b797406098be2162588a0b1c">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationComponent>
