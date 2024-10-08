@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Внешние источники-свалки"
-id="id-d431e909769a487898065412257a8b96">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="d431e909769a487898065412257a8b96"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Внешние источники-свалки"
+    id="id-d431e909769a487898065412257a8b96">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="d431e909769a487898065412257a8b96"/>
 </archimate:ApplicationComponent>

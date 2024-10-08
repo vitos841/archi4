@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.ПИМ"
-id="id-0262799ffab643d5930fbe1b63df47ea">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="0262799ffab643d5930fbe1b63df47ea"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.ПИМ"
+    id="id-0262799ffab643d5930fbe1b63df47ea">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="0262799ffab643d5930fbe1b63df47ea"/>
 </archimate:ApplicationComponent>

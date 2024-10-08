@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Графики работы"
-id="id-b38670e720374fe0bdb3d251e254d4a0">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="b38670e720374fe0bdb3d251e254d4a0"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Графики работы"
+    id="id-b38670e720374fe0bdb3d251e254d4a0">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="b38670e720374fe0bdb3d251e254d4a0"/>
 </archimate:ApplicationComponent>

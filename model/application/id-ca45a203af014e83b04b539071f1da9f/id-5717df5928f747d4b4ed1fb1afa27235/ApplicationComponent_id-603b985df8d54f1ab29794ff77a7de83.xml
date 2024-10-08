@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Управление складом (в т.ч. адресным)"
-id="id-603b985df8d54f1ab29794ff77a7de83">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="603b985df8d54f1ab29794ff77a7de83"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Управление складом (в т.ч. адресным)"
+    id="id-603b985df8d54f1ab29794ff77a7de83">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="603b985df8d54f1ab29794ff77a7de83"/>
 </archimate:ApplicationComponent>

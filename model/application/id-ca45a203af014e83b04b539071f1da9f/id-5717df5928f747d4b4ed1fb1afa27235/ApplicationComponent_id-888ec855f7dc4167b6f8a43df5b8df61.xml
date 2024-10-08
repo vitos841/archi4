@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Интеграция Первая Форма"
-id="id-888ec855f7dc4167b6f8a43df5b8df61">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="888ec855f7dc4167b6f8a43df5b8df61"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Интеграция Первая Форма"
+    id="id-888ec855f7dc4167b6f8a43df5b8df61">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="888ec855f7dc4167b6f8a43df5b8df61"/>
 </archimate:ApplicationComponent>

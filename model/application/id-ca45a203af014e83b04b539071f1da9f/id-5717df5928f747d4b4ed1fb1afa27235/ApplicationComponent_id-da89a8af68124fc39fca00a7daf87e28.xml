@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Интеграция CMS (Битрикс, Joomla и т.д.)"
-id="id-da89a8af68124fc39fca00a7daf87e28">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="da89a8af68124fc39fca00a7daf87e28"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Интеграция CMS (Битрикс, Joomla и т.д.)"
+    id="id-da89a8af68124fc39fca00a7daf87e28">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="da89a8af68124fc39fca00a7daf87e28"/>
 </archimate:ApplicationComponent>

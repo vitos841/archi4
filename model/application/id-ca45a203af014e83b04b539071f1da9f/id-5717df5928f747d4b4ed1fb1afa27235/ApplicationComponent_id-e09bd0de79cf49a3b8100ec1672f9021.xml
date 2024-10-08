@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.ВЗАИМООТНОШЕНИЯ И РАСЧЕТЫ С КОНТРАГЕНТАМИ"
-id="id-e09bd0de79cf49a3b8100ec1672f9021">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="e09bd0de79cf49a3b8100ec1672f9021"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.ВЗАИМООТНОШЕНИЯ И РАСЧЕТЫ С КОНТРАГЕНТАМИ"
+    id="id-e09bd0de79cf49a3b8100ec1672f9021">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="e09bd0de79cf49a3b8100ec1672f9021"/>
 </archimate:ApplicationComponent>

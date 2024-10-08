@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Штрихкоды сотрудников"
-id="id-3652a0b69f8c4604bdae6f88336e145f">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="3652a0b69f8c4604bdae6f88336e145f"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Штрихкоды сотрудников"
+    id="id-3652a0b69f8c4604bdae6f88336e145f">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="3652a0b69f8c4604bdae6f88336e145f"/>
 </archimate:ApplicationComponent>

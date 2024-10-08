@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Сервисная (или служебная)"
-id="id-3a9a17ffb2d848119b41bcd00ea3e2da">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="3a9a17ffb2d848119b41bcd00ea3e2da"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Сервисная (или служебная)"
+    id="id-3a9a17ffb2d848119b41bcd00ea3e2da">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="3a9a17ffb2d848119b41bcd00ea3e2da"/>
 </archimate:ApplicationComponent>

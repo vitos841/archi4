@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.ДЕНЕЖНЫЕ СРЕДСТВА"
-id="id-4e1a28d6565642ef8732e69fb7492c35">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="4e1a28d6565642ef8732e69fb7492c35"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.ДЕНЕЖНЫЕ СРЕДСТВА"
+    id="id-4e1a28d6565642ef8732e69fb7492c35">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="4e1a28d6565642ef8732e69fb7492c35"/>
 </archimate:ApplicationComponent>

@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Интеграция ЕГАИС"
-id="id-e598f39954664b599c584bf707f0df90">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="e598f39954664b599c584bf707f0df90"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Интеграция ЕГАИС"
+    id="id-e598f39954664b599c584bf707f0df90">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="e598f39954664b599c584bf707f0df90"/>
 </archimate:ApplicationComponent>

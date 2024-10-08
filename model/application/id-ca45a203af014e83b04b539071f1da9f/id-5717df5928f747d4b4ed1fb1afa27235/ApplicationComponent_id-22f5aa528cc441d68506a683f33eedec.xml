@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Ремонты и регл.обслуживание"
-id="id-22f5aa528cc441d68506a683f33eedec">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="22f5aa528cc441d68506a683f33eedec"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Ремонты и регл.обслуживание"
+    id="id-22f5aa528cc441d68506a683f33eedec">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="22f5aa528cc441d68506a683f33eedec"/>
 </archimate:ApplicationComponent>

@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.ВВ мини (Вкусвильчик)"
-id="id-f51941bbdd1f47038dbe81501f0589ce">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="f51941bbdd1f47038dbe81501f0589ce"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.ВВ мини (Вкусвильчик)"
+    id="id-f51941bbdd1f47038dbe81501f0589ce">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="f51941bbdd1f47038dbe81501f0589ce"/>
 </archimate:ApplicationComponent>

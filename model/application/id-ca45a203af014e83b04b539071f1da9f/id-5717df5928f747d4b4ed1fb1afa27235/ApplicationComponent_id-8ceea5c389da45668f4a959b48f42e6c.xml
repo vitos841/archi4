@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Распределение (остатков между ТТ и КА)"
-id="id-8ceea5c389da45668f4a959b48f42e6c">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="8ceea5c389da45668f4a959b48f42e6c"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Распределение (остатков между ТТ и КА)"
+    id="id-8ceea5c389da45668f4a959b48f42e6c">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="8ceea5c389da45668f4a959b48f42e6c"/>
 </archimate:ApplicationComponent>

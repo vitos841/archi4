@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Интеграция CRM"
-id="id-7fc9a40f64fa4b9fb25e0e92a88a0882">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="7fc9a40f64fa4b9fb25e0e92a88a0882"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Интеграция CRM"
+    id="id-7fc9a40f64fa4b9fb25e0e92a88a0882">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="7fc9a40f64fa4b9fb25e0e92a88a0882"/>
 </archimate:ApplicationComponent>

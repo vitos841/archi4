@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Управляемый рабочий стол"
-id="id-dffe08d519c843b2aa60ed4069bf4fb2">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="dffe08d519c843b2aa60ed4069bf4fb2"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Управляемый рабочий стол"
+    id="id-dffe08d519c843b2aa60ed4069bf4fb2">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="dffe08d519c843b2aa60ed4069bf4fb2"/>
 </archimate:ApplicationComponent>

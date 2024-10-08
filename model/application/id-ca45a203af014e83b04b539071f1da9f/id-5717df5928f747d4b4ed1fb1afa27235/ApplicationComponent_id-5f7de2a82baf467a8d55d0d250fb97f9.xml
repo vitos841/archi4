@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.ПП 1С Бухгалтерия"
-id="id-5f7de2a82baf467a8d55d0d250fb97f9">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="5f7de2a82baf467a8d55d0d250fb97f9"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.ПП 1С Бухгалтерия"
+    id="id-5f7de2a82baf467a8d55d0d250fb97f9">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="5f7de2a82baf467a8d55d0d250fb97f9"/>
 </archimate:ApplicationComponent>

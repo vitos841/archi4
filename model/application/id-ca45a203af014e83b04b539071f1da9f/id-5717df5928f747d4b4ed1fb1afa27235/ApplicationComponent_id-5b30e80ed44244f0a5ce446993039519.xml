@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Интеграция ЭДО. СБИС. Внутренний документооборот (почему разделено?)"
-id="id-5b30e80ed44244f0a5ce446993039519">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="5b30e80ed44244f0a5ce446993039519"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Интеграция ЭДО. СБИС. Внутренний документооборот (почему разделено?)"
+    id="id-5b30e80ed44244f0a5ce446993039519">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="5b30e80ed44244f0a5ce446993039519"/>
 </archimate:ApplicationComponent>

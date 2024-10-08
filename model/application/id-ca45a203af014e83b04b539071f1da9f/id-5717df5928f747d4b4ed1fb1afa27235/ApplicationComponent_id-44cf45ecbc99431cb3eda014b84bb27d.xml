@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Международные стандарты финансовой отчетности (МСФО)"
-id="id-44cf45ecbc99431cb3eda014b84bb27d">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="44cf45ecbc99431cb3eda014b84bb27d"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Международные стандарты финансовой отчетности (МСФО)"
+    id="id-44cf45ecbc99431cb3eda014b84bb27d">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="44cf45ecbc99431cb3eda014b84bb27d"/>
 </archimate:ApplicationComponent>

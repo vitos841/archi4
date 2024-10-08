@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Роботизация склада"
-id="id-d6e11ef8135041f1b40ccbd252479d16">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="d6e11ef8135041f1b40ccbd252479d16"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Роботизация склада"
+    id="id-d6e11ef8135041f1b40ccbd252479d16">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="d6e11ef8135041f1b40ccbd252479d16"/>
 </archimate:ApplicationComponent>

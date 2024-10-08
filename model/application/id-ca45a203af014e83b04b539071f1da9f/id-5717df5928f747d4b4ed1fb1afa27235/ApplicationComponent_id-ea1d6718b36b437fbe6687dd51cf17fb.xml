@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Товародвижение"
-id="id-ea1d6718b36b437fbe6687dd51cf17fb">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="ea1d6718b36b437fbe6687dd51cf17fb"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Товародвижение"
+    id="id-ea1d6718b36b437fbe6687dd51cf17fb">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="ea1d6718b36b437fbe6687dd51cf17fb"/>
 </archimate:ApplicationComponent>

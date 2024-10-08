@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Закрытие месяца"
-id="id-eb13d63cf4d84714a1b8f5224f0c7464">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="eb13d63cf4d84714a1b8f5224f0c7464"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Закрытие месяца"
+    id="id-eb13d63cf4d84714a1b8f5224f0c7464">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="eb13d63cf4d84714a1b8f5224f0c7464"/>
 </archimate:ApplicationComponent>

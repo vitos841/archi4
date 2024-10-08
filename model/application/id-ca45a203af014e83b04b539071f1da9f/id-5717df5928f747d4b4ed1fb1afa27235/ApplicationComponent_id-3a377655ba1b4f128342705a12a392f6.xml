@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Ценообразование, ценники. Продажи"
-id="id-3a377655ba1b4f128342705a12a392f6">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="3a377655ba1b4f128342705a12a392f6"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Ценообразование, ценники. Продажи"
+    id="id-3a377655ba1b4f128342705a12a392f6">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="3a377655ba1b4f128342705a12a392f6"/>
 </archimate:ApplicationComponent>

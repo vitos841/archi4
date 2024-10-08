@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Управление доступом к персональным данным"
-id="id-18104f8184234052848a2ec5c4cbaad2">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="18104f8184234052848a2ec5c4cbaad2"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Управление доступом к персональным данным"
+    id="id-18104f8184234052848a2ec5c4cbaad2">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="18104f8184234052848a2ec5c4cbaad2"/>
 </archimate:ApplicationComponent>

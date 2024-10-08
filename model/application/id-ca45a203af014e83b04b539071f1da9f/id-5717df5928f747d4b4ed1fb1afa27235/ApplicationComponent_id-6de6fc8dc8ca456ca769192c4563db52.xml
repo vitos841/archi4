@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Интеграция Elasticsearch"
-id="id-6de6fc8dc8ca456ca769192c4563db52">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="6de6fc8dc8ca456ca769192c4563db52"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Интеграция Elasticsearch"
+    id="id-6de6fc8dc8ca456ca769192c4563db52">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="6de6fc8dc8ca456ca769192c4563db52"/>
 </archimate:ApplicationComponent>

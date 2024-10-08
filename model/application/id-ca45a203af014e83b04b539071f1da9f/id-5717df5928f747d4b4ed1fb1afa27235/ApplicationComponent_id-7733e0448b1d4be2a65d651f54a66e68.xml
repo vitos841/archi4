@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Планирование/прогнозирование (закупок, продаж)"
-id="id-7733e0448b1d4be2a65d651f54a66e68">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="7733e0448b1d4be2a65d651f54a66e68"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Планирование/прогнозирование (закупок, продаж)"
+    id="id-7733e0448b1d4be2a65d651f54a66e68">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="7733e0448b1d4be2a65d651f54a66e68"/>
 </archimate:ApplicationComponent>

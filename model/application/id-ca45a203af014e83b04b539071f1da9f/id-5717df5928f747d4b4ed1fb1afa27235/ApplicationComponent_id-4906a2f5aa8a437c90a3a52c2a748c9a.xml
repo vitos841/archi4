@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Магазины ВВ"
-id="id-4906a2f5aa8a437c90a3a52c2a748c9a">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="4906a2f5aa8a437c90a3a52c2a748c9a"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Магазины ВВ"
+    id="id-4906a2f5aa8a437c90a3a52c2a748c9a">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="4906a2f5aa8a437c90a3a52c2a748c9a"/>
 </archimate:ApplicationComponent>

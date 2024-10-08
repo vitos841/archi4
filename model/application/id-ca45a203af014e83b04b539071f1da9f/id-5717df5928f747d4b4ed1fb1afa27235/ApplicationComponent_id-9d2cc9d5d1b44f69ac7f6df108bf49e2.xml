@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Техмониторинг и оптимизация"
-id="id-9d2cc9d5d1b44f69ac7f6df108bf49e2">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="9d2cc9d5d1b44f69ac7f6df108bf49e2"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Техмониторинг и оптимизация"
+    id="id-9d2cc9d5d1b44f69ac7f6df108bf49e2">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="9d2cc9d5d1b44f69ac7f6df108bf49e2"/>
 </archimate:ApplicationComponent>

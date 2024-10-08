@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Кабинет поставщика"
-id="id-7ee596b2e5564097b634be5adedad075">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="7ee596b2e5564097b634be5adedad075"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Кабинет поставщика"
+    id="id-7ee596b2e5564097b634be5adedad075">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="7ee596b2e5564097b634be5adedad075"/>
 </archimate:ApplicationComponent>

@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Корень конфигурации 1С Финансы (Избенка)"
-id="id-16321c5e7379407398806235db872f9f">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="16321c5e7379407398806235db872f9f"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Корень конфигурации 1С Финансы (Избенка)"
+    id="id-16321c5e7379407398806235db872f9f">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="16321c5e7379407398806235db872f9f"/>
 </archimate:ApplicationComponent>

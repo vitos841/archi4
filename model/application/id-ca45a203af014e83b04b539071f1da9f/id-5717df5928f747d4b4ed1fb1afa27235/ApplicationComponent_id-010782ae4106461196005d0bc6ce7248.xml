@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Интеграция 1С: Контрагенты"
-id="id-010782ae4106461196005d0bc6ce7248">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="010782ae4106461196005d0bc6ce7248"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Интеграция 1С: Контрагенты"
+    id="id-010782ae4106461196005d0bc6ce7248">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="010782ae4106461196005d0bc6ce7248"/>
 </archimate:ApplicationComponent>

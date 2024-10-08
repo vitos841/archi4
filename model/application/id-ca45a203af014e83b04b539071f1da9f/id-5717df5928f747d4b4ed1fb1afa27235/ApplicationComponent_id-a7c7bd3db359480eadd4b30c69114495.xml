@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Бонусы поставщиков"
-id="id-a7c7bd3db359480eadd4b30c69114495">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="a7c7bd3db359480eadd4b30c69114495"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Бонусы поставщиков"
+    id="id-a7c7bd3db359480eadd4b30c69114495">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="a7c7bd3db359480eadd4b30c69114495"/>
 </archimate:ApplicationComponent>

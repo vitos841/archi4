@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Согласование заявок (всевозможных)"
-id="id-eb0ba66b62454916914c11c892670edf">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="eb0ba66b62454916914c11c892670edf"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Согласование заявок (всевозможных)"
+    id="id-eb0ba66b62454916914c11c892670edf">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="eb0ba66b62454916914c11c892670edf"/>
 </archimate:ApplicationComponent>

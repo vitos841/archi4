@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Прокси Розница"
-id="id-555e0c2e31574ddd950eb0da7e7d85b9">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="555e0c2e31574ddd950eb0da7e7d85b9"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Прокси Розница"
+    id="id-555e0c2e31574ddd950eb0da7e7d85b9">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="555e0c2e31574ddd950eb0da7e7d85b9"/>
 </archimate:ApplicationComponent>

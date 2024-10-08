@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Fin.Интеграция Ally"
-id="id-45d49fb24f5c40b891df305d6fbc4f59">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="45d49fb24f5c40b891df305d6fbc4f59"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fin.Интеграция Ally"
+    id="id-45d49fb24f5c40b891df305d6fbc4f59">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="45d49fb24f5c40b891df305d6fbc4f59"/>
 </archimate:ApplicationComponent>
