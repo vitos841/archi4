@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationFunction
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Поиск\печать Приходного ордера на склад возврата"
-id="id-0b24275e0fba4b379a03dcdcf141f966">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="0b24275e0fba4b379a03dcdcf141f966"/>
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Поиск\печать Приходного ордера на склад возврата"
+    id="id-0b24275e0fba4b379a03dcdcf141f966">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="0b24275e0fba4b379a03dcdcf141f966"/>
 </archimate:ApplicationFunction>

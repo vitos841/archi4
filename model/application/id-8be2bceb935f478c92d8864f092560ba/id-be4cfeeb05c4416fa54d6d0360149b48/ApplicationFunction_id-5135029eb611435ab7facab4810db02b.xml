@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationFunction
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Получить задания лаборатории SRV-SQL01.SMS_REPL/IzbenkaFin"
-id="id-5135029eb611435ab7facab4810db02b">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="5135029eb611435ab7facab4810db02b"/>
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Получить задания лаборатории SRV-SQL01.SMS_REPL/IzbenkaFin"
+    id="id-5135029eb611435ab7facab4810db02b">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="5135029eb611435ab7facab4810db02b"/>
 </archimate:ApplicationFunction>

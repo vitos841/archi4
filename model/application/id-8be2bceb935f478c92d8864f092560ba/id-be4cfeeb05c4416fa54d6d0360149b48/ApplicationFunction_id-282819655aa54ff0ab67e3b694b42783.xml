@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationFunction
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Контактная информация"
-id="id-282819655aa54ff0ab67e3b694b42783">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="282819655aa54ff0ab67e3b694b42783"/>
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Контактная информация"
+    id="id-282819655aa54ff0ab67e3b694b42783">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="282819655aa54ff0ab67e3b694b42783"/>
 </archimate:ApplicationFunction>

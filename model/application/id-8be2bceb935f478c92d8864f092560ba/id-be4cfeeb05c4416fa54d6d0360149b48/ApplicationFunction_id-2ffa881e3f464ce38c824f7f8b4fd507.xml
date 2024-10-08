@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationFunction
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Отправить по ЭДО"
-id="id-2ffa881e3f464ce38c824f7f8b4fd507">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="2ffa881e3f464ce38c824f7f8b4fd507"/>
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Отправить по ЭДО"
+    id="id-2ffa881e3f464ce38c824f7f8b4fd507">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="2ffa881e3f464ce38c824f7f8b4fd507"/>
 </archimate:ApplicationFunction>

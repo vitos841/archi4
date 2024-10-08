@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationFunction
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Отправка сообщений магазинам (МОС)"
-id="id-339434eb850744e8bdf7ae3ada92c45a">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="339434eb850744e8bdf7ae3ada92c45a"/>
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Отправка сообщений магазинам (МОС)"
+    id="id-339434eb850744e8bdf7ae3ada92c45a">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="339434eb850744e8bdf7ae3ada92c45a"/>
 </archimate:ApplicationFunction>

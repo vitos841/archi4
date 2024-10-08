@@ -1,11 +1,11 @@
-﻿<archimate:ApplicationFunction
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Печать документов (Отчета\Акта) для ЭДО"
-id="id-68df9fe1e06f44c185eb72104255b1e5">
-<properties
-   key="AutoGeneration"
-   value="Да"/>
-<properties
-   key="TechnicalID"
-   value="68df9fe1e06f44c185eb72104255b1e5"/>
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Печать документов (Отчета\Акта) для ЭДО"
+    id="id-68df9fe1e06f44c185eb72104255b1e5">
+  <properties
+      key="AutoGeneration"
+      value="Да"/>
+  <properties
+      key="TechnicalID"
+      value="68df9fe1e06f44c185eb72104255b1e5"/>
 </archimate:ApplicationFunction>
