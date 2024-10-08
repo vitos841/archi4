@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for Ret.Технологи, проверка качества"
+    id="id-f6288f60a2ca4a9d8ca3ae76ccf3a353">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6c09524bf21f40ed872d99628ece7dc6">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-df06421143944de29a0fb0e3aaa9817d.xml#id-df06421143944de29a0fb0e3aaa9817d"/>
+  </children>
+</archimate:ArchimateDiagramModel>
