@@ -1,11 +1,12 @@
-<archimate:ServingRelationship
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-c4b33fafbacf4b05b6791a513b1c436a">
-  <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-c637a78b56134ebab2c45ccf6c0f1c0a.xml#id-c637a78b56134ebab2c45ccf6c0f1c0a"/>
-  <target
-      xsi:type="archimate:ApplicationComponent"
-      href="file:/C:/Users/Иван/AppData/Roaming/Archi4/model-repository/archi4/model/relations/id-6b8ad86d053548b988f0bc122c4b7248/ApplicationComponent_id-ef2e4a56cc2d4905b78b84c25591de21.xml#id-ef2e4a56cc2d4905b78b84c25591de21"/>
+﻿<archimate:ServingRelationship
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:archimate="http://www.archimatetool.com/archimate"
+name=""
+id="id-c4b33fafbacf4b05b6791a513b1c436a">  
+ <source
+  xsi:type="archimate:ApplicationComponent"
+  href="ApplicationComponent_id-b5bfc2a0f8be470fafb3f133556b9867.xml#id-b5bfc2a0f8be470fafb3f133556b9867"/>
+<target
+  xsi:type="archimate:ApplicationComponent"
+  href="ApplicationComponent_id-97da69859db34eb3b453382e2d1d07d3.xml#id-97da69859db34eb3b453382e2d1d07d3"/>  	
 </archimate:ServingRelationship>
