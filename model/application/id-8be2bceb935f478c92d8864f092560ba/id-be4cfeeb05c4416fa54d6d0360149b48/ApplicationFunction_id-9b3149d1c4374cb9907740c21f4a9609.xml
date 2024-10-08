@@ -1,8 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ret.Получить данные о продажах SRV-SQL01.SMS_UNION/IzbenkaFin"
-    id="id-9b3149d1c4374cb9907740c21f4a9609">
-  <properties
-      key="Сгенерирован автоматически"
-      value="Да"/>
-</archimate:ApplicationFunction>
