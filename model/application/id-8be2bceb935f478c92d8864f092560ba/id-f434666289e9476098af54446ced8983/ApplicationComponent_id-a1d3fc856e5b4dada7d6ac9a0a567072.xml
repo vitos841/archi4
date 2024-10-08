@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.Бюджет доходов и расходов (БДР)"
-id="id-a1d3fc856e5b4dada7d6ac9a0a567072">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.Бюджет доходов и расходов (БДР)"
+    id="id-a1d3fc856e5b4dada7d6ac9a0a567072">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationComponent>

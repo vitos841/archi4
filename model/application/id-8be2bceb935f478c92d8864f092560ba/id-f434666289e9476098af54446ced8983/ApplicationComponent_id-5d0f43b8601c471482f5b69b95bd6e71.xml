@@ -1,8 +1,8 @@
-﻿<archimate:ApplicationComponent
-xmlns:archimate="http://www.archimatetool.com/archimate"
-name="Ret.XDTO. Правила обмена. Распределение"
-id="id-5d0f43b8601c471482f5b69b95bd6e71">
-<properties
-   key="Сгенерирован автоматически"
-   value="Да"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ret.XDTO. Правила обмена. Распределение"
+    id="id-5d0f43b8601c471482f5b69b95bd6e71">
+  <properties
+      key="Сгенерирован автоматически"
+      value="Да"/>
 </archimate:ApplicationComponent>
