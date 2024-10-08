@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Журналы магазинов"
+    id="id-5c3f11dc704a4cc5ad97fc64fd7df18e">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0cd910c2c21c418caf170b9751fe5b72">
+    <bounds
+        x="255"
+        y="85"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-76de3ec4a1c44ca88e17360f6d61380f.xml#id-76de3ec4a1c44ca88e17360f6d61380f"/>
+  </children>
+</archimate:ArchimateDiagramModel>
